@@ -3,14 +3,14 @@
 ### 📱 Preview
 Expending cards
 <p align="center">
-  <a href="https://valdineijunior.github.io/FormInputWave/">
-    <img alt="08Project" src="https://github.com/ValdineiJunior/FormInputWave/blob/main/Screenshot.png" alt="screenshot" width="100%">
+  <a href="https://valdineijunior.github.io/SoundBoard/">
+    <img alt="LayoutProject" src="https://github.com/ValdineiJunior/FormInputWave/blob/main/Screenshot.png" width="100%">
   </a>
 </p>
 
 ### 💻 Live Preview
 
-- https://valdineijunior.github.io/FormInputWave/
+- https://valdineijunior.github.io/SoundBoard/
 
 ## 🚀 Tecnologias
 
