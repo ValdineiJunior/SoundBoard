@@ -1,10 +1,8 @@
-# SoundBoard
-
 ### 📱 Preview
-Expending cards
+SoundBoard
 <p align="center">
   <a href="https://valdineijunior.github.io/SoundBoard/">
-    <img alt="LayoutProject" src="https://github.com/ValdineiJunior/FormInputWave/blob/main/Screenshot.png" width="100%">
+    <img alt="LayoutProject" src="https://github.com/ValdineiJunior/SoundBoard/blob/main/assets/Screenshot.png" width="100%">
   </a>
 </p>
 
